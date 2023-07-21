@@ -3,3 +3,7 @@ jdy
 
 kym
 
+master add
+detail add
+
+detail modified ok???
