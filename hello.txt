@@ -7,3 +7,5 @@ master add
 detail add
 
 detail modified ok???
+git modified 
+
